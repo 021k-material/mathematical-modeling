@@ -1,2 +1,0 @@
-# mathematical-modeling
-Математическое моделирование
